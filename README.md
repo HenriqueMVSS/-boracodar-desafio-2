@@ -18,7 +18,7 @@ Desafio passado pelo evento #boracodar, que é um evento exclusivo e gratuito, p
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src="./boracodar-desafio-2/assets/img/challengeTwo.png" width="100%">
+  <img alt="Challenge two" src="./assets/img/challengeTwo.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
